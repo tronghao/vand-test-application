@@ -164,6 +164,13 @@ export default {
       },
       { deep: true }
     );
+
+    watch(
+      () => [state.query.type, state.query.sort.field, state.query.sort.desc],
+      () => {
+        state.query.pageNumber = 1;
+      }
+    );
     
     return {
       ...toRefs(state),
