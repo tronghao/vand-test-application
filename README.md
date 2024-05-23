@@ -25,17 +25,17 @@ npm run lint
 
 Inside the src folder:
 
-- api folder: folder contains api calls to get data.
-- assets folder: folder contains resources including fonts and images.
-  - fonts folder: folder contains fonts.
-  - icons folder: folder contains icons.
-  - images folder: folder contains images.
-- components folder: folder contains components.
-- constants folder: folder defines constant values.
-- layout folder: folder defines layout of page.
-- router folder: folder defines the system's routes.
-- services folder: folder defines services like axios, ...
-- stores folder: folder defines VueX, Pinia.
-- styles folder: folder defines scss module.
-- utils folder: folder contains reusable functions.
-- views folder: folder contains page of the system's.
+- api folder: contains api calls to get data.
+- assets folder: contains resources including fonts, icons and images.
+  - fonts folder: contains fonts.
+  - icons folder: contains icons.
+  - images folder: contains images.
+- components folder: contains components.
+- constants folder: defines constant values.
+- layout folder: defines layout of page.
+- router folder: defines the system's routes.
+- services folder: defines services like axios, ...
+- stores folder: defines VueX, Pinia.
+- styles folder: defines scss module.
+- utils folder: contains reusable functions.
+- views folder: contains page of the system's.
