@@ -1,5 +1,12 @@
 # Environment
-NODE-VERSION: 14.17.3
+Operation / Build Environment Version:
+1. Node.js / 14.17.3
+2. npm / ^6.14.13
+3. vue / ^3.2.13
+4. vue-router / ^4.1.6
+5. element-plus / ^2.2.28
+6. axios / ^1.7.2
+7. tailwindcss / ^3.2.4
 
 ## Project setup
 ```
